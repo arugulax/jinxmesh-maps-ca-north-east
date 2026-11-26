@@ -1,0 +1,2267 @@
+{
+ "name": "nunavut",
+ "format": "JMVM 4",
+ "group": 61273,
+ "bytes": 6266260804,
+ "pieces": [
+  {
+   "file": "nunavut-1.jmv",
+   "bytes": 19980220,
+   "sha256": "f57910a33dcf918d5fa40f74256a9ac285ee33b6f4b54f9034e14898c0419389",
+   "south": 82.76537,
+   "west": -78.04688,
+   "north": 83.32384,
+   "east": -75.23438
+  },
+  {
+   "file": "nunavut-2.jmv",
+   "bytes": 21843452,
+   "sha256": "b5f349bb56ed57570b759b4a20fc74d2b6dda291744152ac1dca33dba804ecac",
+   "south": 82.76537,
+   "west": -75.23438,
+   "north": 83.33915,
+   "east": -71.71875
+  },
+  {
+   "file": "nunavut-3.jmv",
+   "bytes": 25005527,
+   "sha256": "c4bdabe9eb36145c7dfcb271217cf4a65329ced6a6bfa0f4c2a142ecf175fd3f",
+   "south": 82.76537,
+   "west": -71.71875,
+   "north": 83.31362,
+   "east": -68.20312
+  },
+  {
+   "file": "nunavut-4.jmv",
+   "bytes": 23499344,
+   "sha256": "f26274fe4fcc5284c279a9c64608390ec93d75b9c61536c9f6418b88cf8a443d",
+   "south": 82.67628,
+   "west": -84.375,
+   "north": 83.25194,
+   "east": -78.04688
+  },
+  {
+   "file": "nunavut-5.jmv",
+   "bytes": 25222374,
+   "sha256": "7d76b1ab6b532c958631ce5fc35e43e10549fab1c598cfa304d342154cbad750",
+   "south": 82.40242,
+   "west": -68.20312,
+   "north": 83.2571,
+   "east": -66.09375
+  },
+  {
+   "file": "nunavut-6.jmv",
+   "bytes": 26318086,
+   "sha256": "bf13ef76fe879800a196ccea66e960d6620969844f6d448337f43189b2ca7ae6",
+   "south": 82.40242,
+   "west": -66.09375,
+   "north": 83.14262,
+   "east": -59.63379
+  },
+  {
+   "file": "nunavut-7.jmv",
+   "bytes": 24676925,
+   "sha256": "eb8d8b1b440a8d83a4c6b02793798e7ca8a7a1725336245f0d9ffacc024d860f",
+   "south": 81.92319,
+   "west": -89.29688,
+   "north": 82.82599,
+   "east": -84.375
+  },
+  {
+   "file": "nunavut-8.jmv",
+   "bytes": 28247126,
+   "sha256": "426b12b25d442595c231a4c56e7d040f6b2b85576b08e9c32875a785f4632f0d",
+   "south": 82.40242,
+   "west": -78.04688,
+   "north": 82.76537,
+   "east": -74.53125
+  },
+  {
+   "file": "nunavut-9.jmv",
+   "bytes": 26478342,
+   "sha256": "58d84c91d21ce581bdc3df1f5bfdc1b13a8026e9bbf5135a15d22de795e3dbc4",
+   "south": 82.40242,
+   "west": -74.53125,
+   "north": 82.76537,
+   "east": -71.71875
+  },
+  {
+   "file": "nunavut-10.jmv",
+   "bytes": 19277120,
+   "sha256": "c64b8cd29d9d3b18716538e97108c0db2db0d5efe0a9f19117b022fc723ecf50",
+   "south": 82.49482,
+   "west": -71.71875,
+   "north": 82.76537,
+   "east": -68.20312
+  },
+  {
+   "file": "nunavut-11.jmv",
+   "bytes": 30018426,
+   "sha256": "5728ad7aa3e928eed846396576424ca5bb300f54b6efe0924a40167648770eed",
+   "south": 82.40242,
+   "west": -84.375,
+   "north": 82.67628,
+   "east": -78.04688
+  },
+  {
+   "file": "nunavut-12.jmv",
+   "bytes": 25334929,
+   "sha256": "ae543458884847ee1c663d5d6dd7b87d74b07b7b9eb4e2a6f82b1415385e40e5",
+   "south": 82.11838,
+   "west": -71.71875,
+   "north": 82.49482,
+   "east": -68.20312
+  },
+  {
+   "file": "nunavut-13.jmv",
+   "bytes": 22996989,
+   "sha256": "25b413ac2835ed71d1a8e0b08acf2b863ec2c73c87108050f0cb4ffb6382f0e4",
+   "south": 82.11838,
+   "west": -84.375,
+   "north": 82.40242,
+   "east": -80.85938
+  },
+  {
+   "file": "nunavut-14.jmv",
+   "bytes": 23352564,
+   "sha256": "428ecfe24c624362e11f50251806e1b0631218d7cf32d1ff2d476faba3863502",
+   "south": 82.11838,
+   "west": -80.85938,
+   "north": 82.40242,
+   "east": -78.04688
+  },
+  {
+   "file": "nunavut-15.jmv",
+   "bytes": 24243335,
+   "sha256": "f96fa90fccfb7f00ffc4bfe96623c3316826cbb295db389767731a44cf6c9676",
+   "south": 81.92319,
+   "west": -78.04688,
+   "north": 82.40242,
+   "east": -75.23438
+  },
+  {
+   "file": "nunavut-16.jmv",
+   "bytes": 23089027,
+   "sha256": "7fdc6c39439ebd7bc1c5346283fb35b2827dcf8e3ce8761615fbb37a754c9780",
+   "south": 81.92319,
+   "west": -75.23438,
+   "north": 82.40242,
+   "east": -71.71875
+  },
+  {
+   "file": "nunavut-17.jmv",
+   "bytes": 26992295,
+   "sha256": "a8e3d96faa1d6a0c82864d9cda4d80f5f62dbd238edbeb0f22042afcfaa9d476",
+   "south": 81.51827,
+   "west": -68.20312,
+   "north": 82.40242,
+   "east": -65.39062
+  },
+  {
+   "file": "nunavut-18.jmv",
+   "bytes": 26221561,
+   "sha256": "d8e0372ed7897b0d5db83264c1507ea116e5515e4db3babac9ea346e0a0323c1",
+   "south": 81.51827,
+   "west": -65.39062,
+   "north": 82.40242,
+   "east": -58.62305
+  },
+  {
+   "file": "nunavut-19.jmv",
+   "bytes": 21264412,
+   "sha256": "e5da37a8b54e872b3ee13a31431ed48d2bc2727701497bd14b2c485f60689a81",
+   "south": 80.98369,
+   "west": -92.8125,
+   "north": 82.24986,
+   "east": -89.29688
+  },
+  {
+   "file": "nunavut-20.jmv",
+   "bytes": 18493178,
+   "sha256": "9b93016eeb5aee877a1c165a4676eea41c97e1a5d0e24c1446d68b4b30b564aa",
+   "south": 81.92319,
+   "west": -84.375,
+   "north": 82.11838,
+   "east": -81.5625
+  },
+  {
+   "file": "nunavut-21.jmv",
+   "bytes": 23654951,
+   "sha256": "8d5ef404961d4efdb9602d5f53985ecd820e181181dd07c28c5c2ba463fd676e",
+   "south": 81.92319,
+   "west": -81.5625,
+   "north": 82.11838,
+   "east": -78.04688
+  },
+  {
+   "file": "nunavut-22.jmv",
+   "bytes": 26250307,
+   "sha256": "0558e0c816771cba061dfc309513f86fccd3fe7d0b7a3f8137b50423bb959cae",
+   "south": 81.51827,
+   "west": -71.71875,
+   "north": 82.11838,
+   "east": -68.20312
+  },
+  {
+   "file": "nunavut-23.jmv",
+   "bytes": 23972182,
+   "sha256": "e4985d8781bcb42928e7c92da8eb8d12d7ef80973b9a447b00db71ba81a486ea",
+   "south": 80.53207,
+   "west": -97.55859,
+   "north": 81.85498,
+   "east": -92.8125
+  },
+  {
+   "file": "nunavut-24.jmv",
+   "bytes": 19771694,
+   "sha256": "3ebf0dc45fcc7394918bd8ce979e27956be1f64a440c582434a4cbe9a66fccd5",
+   "south": 81.72319,
+   "west": -89.29688,
+   "north": 81.92319,
+   "east": -84.375
+  },
+  {
+   "file": "nunavut-25.jmv",
+   "bytes": 27436815,
+   "sha256": "e04d042c92a2d9da17b46bed47b161f4ee4aada10490bf78740fdb7f0161d6c8",
+   "south": 81.51827,
+   "west": -84.375,
+   "north": 81.92319,
+   "east": -81.5625
+  },
+  {
+   "file": "nunavut-26.jmv",
+   "bytes": 31765529,
+   "sha256": "4eff69b9a950523ce5d7b220e84d26dc296f839cdda91efc3729624c6298e07c",
+   "south": 81.51827,
+   "west": -81.5625,
+   "north": 81.92319,
+   "east": -78.04688
+  },
+  {
+   "file": "nunavut-27.jmv",
+   "bytes": 21591839,
+   "sha256": "f732583ee7ba652ab872fffabd83649b055cae4e3fa2db50f7db6d7e8255153a",
+   "south": 81.51827,
+   "west": -78.04688,
+   "north": 81.92319,
+   "east": -75.23438
+  },
+  {
+   "file": "nunavut-28.jmv",
+   "bytes": 21599687,
+   "sha256": "e44a8ec9a63010d00c6e889b331667f32168efb6e7192b530a7644a487daebdc",
+   "south": 81.51827,
+   "west": -75.23438,
+   "north": 81.92319,
+   "east": -71.71875
+  },
+  {
+   "file": "nunavut-29.jmv",
+   "bytes": 26398059,
+   "sha256": "5d53bdb236c4598a6182f64632922adc081e5b9d1179cecd6da56f4dc430f981",
+   "south": 81.30832,
+   "west": -89.29688,
+   "north": 81.72319,
+   "east": -86.48438
+  },
+  {
+   "file": "nunavut-30.jmv",
+   "bytes": 22542268,
+   "sha256": "8ed17515fa1148061f4560b8ec7e08d62fb95c44ea13faf4b4fcc3d2cf149a6b",
+   "south": 81.30832,
+   "west": -86.48438,
+   "north": 81.72319,
+   "east": -84.375
+  },
+  {
+   "file": "nunavut-31.jmv",
+   "bytes": 23683988,
+   "sha256": "beb681c517bd6713887b96c03502ee3e11befcb28233ac165c9982e01377a039",
+   "south": 81.09321,
+   "west": -84.375,
+   "north": 81.51827,
+   "east": -81.5625
+  },
+  {
+   "file": "nunavut-32.jmv",
+   "bytes": 27017595,
+   "sha256": "de56c54b38ea5094859090dce17a1689381fef50033383fdf44d0a59c4339cd8",
+   "south": 81.09321,
+   "west": -81.5625,
+   "north": 81.51827,
+   "east": -78.04688
+  },
+  {
+   "file": "nunavut-33.jmv",
+   "bytes": 23954648,
+   "sha256": "f3511e52391da3db4ee8a2dcb18c769587e757b3a1938e7b698c3155fd127b97",
+   "south": 80.87283,
+   "west": -78.04688,
+   "north": 81.51827,
+   "east": -75.9375
+  },
+  {
+   "file": "nunavut-34.jmv",
+   "bytes": 27395604,
+   "sha256": "7f55c15ecad5046c3ed01653b76c212e06075fdb52d2091e4950358d39110708",
+   "south": 80.87283,
+   "west": -75.9375,
+   "north": 81.51827,
+   "east": -72.42188
+  },
+  {
+   "file": "nunavut-35.jmv",
+   "bytes": 16976532,
+   "sha256": "be52eddfa162c8ae5a7b2fbb3cba99405e320071682f6497de317a560d0caff3",
+   "south": 81.20142,
+   "west": -72.42188,
+   "north": 81.51827,
+   "east": -68.90625
+  },
+  {
+   "file": "nunavut-36.jmv",
+   "bytes": 23311092,
+   "sha256": "a783cc2795eee56b00e719715a675a0de0e4b71f0c96c4be1568d47ca72af5a1",
+   "south": 80.87283,
+   "west": -68.90625,
+   "north": 81.51827,
+   "east": -67.5
+  },
+  {
+   "file": "nunavut-37.jmv",
+   "bytes": 29046181,
+   "sha256": "402d6d402e0ef94febed587db738dd5c9bd2a56da54447f1b7c80051ab448ae8",
+   "south": 80.87283,
+   "west": -67.5,
+   "north": 81.51827,
+   "east": -63.41309
+  },
+  {
+   "file": "nunavut-38.jmv",
+   "bytes": 21711201,
+   "sha256": "024ab8fb40423b560fb587c6ea8d8452eea0313aef76dde71f9c03451f7df3a5",
+   "south": 80.76061,
+   "west": -89.29688,
+   "north": 81.30832,
+   "east": -87.1875
+  },
+  {
+   "file": "nunavut-39.jmv",
+   "bytes": 25997158,
+   "sha256": "b6fa9640ae8d83cd599d4cdc88199d35aa21b016e799edd75a7b727062504d6b",
+   "south": 80.76061,
+   "west": -87.1875,
+   "north": 81.30832,
+   "east": -84.375
+  },
+  {
+   "file": "nunavut-40.jmv",
+   "bytes": 24585897,
+   "sha256": "188e7a61e550add38cb5b664338d2cd6c0dcd76a8903353744b93610df956789",
+   "south": 80.87283,
+   "west": -72.42188,
+   "north": 81.20142,
+   "east": -68.90625
+  },
+  {
+   "file": "nunavut-41.jmv",
+   "bytes": 20029130,
+   "sha256": "ac2c62582cbec040e6bb28cbdc9991a9b042fea1a2cf872dd67b05344ad6f848",
+   "south": 80.76061,
+   "west": -84.375,
+   "north": 81.09321,
+   "east": -81.5625
+  },
+  {
+   "file": "nunavut-42.jmv",
+   "bytes": 23489971,
+   "sha256": "669ec4ffd3c23033651c4e86e751c666ae977aace453b4dd423d3c69c418ac25",
+   "south": 80.76061,
+   "west": -81.5625,
+   "north": 81.09321,
+   "east": -78.04688
+  },
+  {
+   "file": "nunavut-43.jmv",
+   "bytes": 24239920,
+   "sha256": "c69cd8627c3c67486bc9520cf61f62be93f29e6de92e7c2ed3e19d80d9d23b9f",
+   "south": 80.29793,
+   "west": -92.8125,
+   "north": 80.98369,
+   "east": -89.29688
+  },
+  {
+   "file": "nunavut-44.jmv",
+   "bytes": 24432043,
+   "sha256": "3eb35631881e82383aa0fcf430aa3653d7822dd4207de8827a0868481493b34e",
+   "south": 80.17871,
+   "west": -78.04688,
+   "north": 80.87283,
+   "east": -75.23438
+  },
+  {
+   "file": "nunavut-45.jmv",
+   "bytes": 23241547,
+   "sha256": "f1ad4e738df73ebedd6cd4225a8f551f6e797873cad26570de1686d632d0563b",
+   "south": 80.17871,
+   "west": -75.23438,
+   "north": 80.87283,
+   "east": -72.42188
+  },
+  {
+   "file": "nunavut-46.jmv",
+   "bytes": 22426597,
+   "sha256": "9e9d032968c95bf97b1b4efb14d6856b33d82d9d540356d753a6e8fa882ffca3",
+   "south": 80.41571,
+   "west": -72.42188,
+   "north": 80.87283,
+   "east": -70.3125
+  },
+  {
+   "file": "nunavut-47.jmv",
+   "bytes": 27903789,
+   "sha256": "39e2a2eb0a5aeeec5e93d809a51b598e8ac51fa54d1bf2680f3d23899b632736",
+   "south": 80.41571,
+   "west": -70.3125,
+   "north": 80.87283,
+   "east": -65.74219
+  },
+  {
+   "file": "nunavut-48.jmv",
+   "bytes": 27402417,
+   "sha256": "e5c8eb694269f6bfc7949a6018f8b1a6ea36a03fbcae8aea85aa487396b94a75",
+   "south": 79.93592,
+   "west": -89.29688,
+   "north": 80.76061,
+   "east": -84.375
+  },
+  {
+   "file": "nunavut-49.jmv",
+   "bytes": 26605637,
+   "sha256": "e22504570545d05a4398ada504b540dc233caf7a3ff346ea0fbec80362cf0f84",
+   "south": 79.93592,
+   "west": -84.375,
+   "north": 80.76061,
+   "east": -80.85938
+  },
+  {
+   "file": "nunavut-50.jmv",
+   "bytes": 26202573,
+   "sha256": "e6330de4ef6b973ef227423acc109f52c5b8119031305394723a906aef6f170c",
+   "south": 79.93592,
+   "west": -80.85938,
+   "north": 80.76061,
+   "east": -78.04688
+  },
+  {
+   "file": "nunavut-51.jmv",
+   "bytes": 23329661,
+   "sha256": "4d33734f700d346a1aee367e57db471b50129fa9ec7566bcfd102bbbb376fcdf",
+   "south": 80.17871,
+   "west": -101.55762,
+   "north": 80.53207,
+   "east": -92.8125
+  },
+  {
+   "file": "nunavut-52.jmv",
+   "bytes": 20530458,
+   "sha256": "2245c3c9dd752d5ae496c47a40afc9ab1070afae4a32b8fb8aa6b006b4a353c4",
+   "south": 80.17871,
+   "west": -72.42188,
+   "north": 80.41571,
+   "east": -68.29102
+  },
+  {
+   "file": "nunavut-53.jmv",
+   "bytes": 26174568,
+   "sha256": "54d9151e09457179587b9e45ff4163aa2b5c5d1aacb05a87de702f6d0bd847da",
+   "south": 79.68718,
+   "west": -92.8125,
+   "north": 80.29793,
+   "east": -89.29688
+  },
+  {
+   "file": "nunavut-54.jmv",
+   "bytes": 22572613,
+   "sha256": "2f1b9fd9b7f634921499522a992e27562bb24bdd84ef280c97f1c151922f020d",
+   "south": 79.43237,
+   "west": -107.31445,
+   "north": 80.17871,
+   "east": -94.21875
+  },
+  {
+   "file": "nunavut-55.jmv",
+   "bytes": 26410768,
+   "sha256": "9ed74a127f5c8830ba573dca5a80e6f401705b4ed735f0241cbe7f35d4ff35ce",
+   "south": 79.43237,
+   "west": -94.21875,
+   "north": 80.17871,
+   "east": -92.8125
+  },
+  {
+   "file": "nunavut-56.jmv",
+   "bytes": 22733388,
+   "sha256": "4507c1b6815d8b90233bc38903ea582590a507f77d19e4246aae6af9180f85db",
+   "south": 79.8123,
+   "west": -78.04688,
+   "north": 80.17871,
+   "east": -74.53125
+  },
+  {
+   "file": "nunavut-57.jmv",
+   "bytes": 38957020,
+   "sha256": "e615b232b52f64f4db6ee1dcb10e7d58f4449468e3c04704aff2b91e588aff63",
+   "south": 79.43237,
+   "west": -74.53125,
+   "north": 80.17871,
+   "east": -72.42188
+  },
+  {
+   "file": "nunavut-58.jmv",
+   "bytes": 24805741,
+   "sha256": "69b46347a54b9b1df51414962e5ba961f499d3d715b4b0b7dc46de282f3bab2a",
+   "south": 79.43237,
+   "west": -72.42188,
+   "north": 80.17871,
+   "east": -68.4668
+  },
+  {
+   "file": "nunavut-59.jmv",
+   "bytes": 23608460,
+   "sha256": "e0a9c2b3e12b97a5975d8aac8728ace57139420da9b25cc6825dcb42372e7fbb",
+   "south": 79.43237,
+   "west": -89.29688,
+   "north": 79.93592,
+   "east": -84.375
+  },
+  {
+   "file": "nunavut-60.jmv",
+   "bytes": 28628559,
+   "sha256": "35cb81b7dd6c363984d703ec6676c12094b6525cb20e5d3cce83f15b473cdf1b",
+   "south": 79.43237,
+   "west": -84.375,
+   "north": 79.93592,
+   "east": -80.85938
+  },
+  {
+   "file": "nunavut-61.jmv",
+   "bytes": 23404682,
+   "sha256": "166b0723e9ee114681ea5ead7b98bc4437751f4fb29dee4053fafd71b7a07bbf",
+   "south": 79.43237,
+   "west": -80.85938,
+   "north": 79.93592,
+   "east": -78.04688
+  },
+  {
+   "file": "nunavut-62.jmv",
+   "bytes": 32635958,
+   "sha256": "57dee287218278b44ddec707f7512866a94c4d366b00b3f2686bea323f587fd7",
+   "south": 79.43237,
+   "west": -78.04688,
+   "north": 79.8123,
+   "east": -74.53125
+  },
+  {
+   "file": "nunavut-63.jmv",
+   "bytes": 24280792,
+   "sha256": "a3f7b5b60e4f54e4c180cc014b84b64832c45c424bd34aa19ce39b190ac25c45",
+   "south": 79.43237,
+   "west": -92.8125,
+   "north": 79.68718,
+   "east": -89.29688
+  },
+  {
+   "file": "nunavut-64.jmv",
+   "bytes": 26143523,
+   "sha256": "adb411cbf0136391c218c86b5889d086b78e82f8f1b748e5909cad301e9ce28e",
+   "south": 78.34941,
+   "west": -110.08301,
+   "north": 79.43237,
+   "east": -99.84375
+  },
+  {
+   "file": "nunavut-65.jmv",
+   "bytes": 23765919,
+   "sha256": "1a7f2bdcb190e443b144b0db28c2e8e30958c99ea495b436e3b35068b1652f08",
+   "south": 76.99994,
+   "west": -99.84375,
+   "north": 79.43237,
+   "east": -93.51562
+  },
+  {
+   "file": "nunavut-66.jmv",
+   "bytes": 25562930,
+   "sha256": "9ae8da40bbca9596d9d5d096cac29e5cda53e4807beae4cd9692fe189b161e27",
+   "south": 78.76779,
+   "west": -93.51562,
+   "north": 79.43237,
+   "east": -91.40625
+  },
+  {
+   "file": "nunavut-67.jmv",
+   "bytes": 22337231,
+   "sha256": "7168afa205d46ab448e8aed2c82870a6b1fda16d9270f4ee9cf8d019880202b9",
+   "south": 78.76779,
+   "west": -91.40625,
+   "north": 79.43237,
+   "east": -90.0
+  },
+  {
+   "file": "nunavut-68.jmv",
+   "bytes": 21336543,
+   "sha256": "d60291742d43060e5db68cba42829f1db0980079fdbda2aa5489c0a7a059007b",
+   "south": 78.90393,
+   "west": -90.0,
+   "north": 79.43237,
+   "east": -87.89062
+  },
+  {
+   "file": "nunavut-69.jmv",
+   "bytes": 28084444,
+   "sha256": "fb75ab9544e4a3ece528badd5be0977341f14727fa2f096cb96dce9c2aeb393d",
+   "south": 78.76779,
+   "west": -87.89062,
+   "north": 79.43237,
+   "east": -84.375
+  },
+  {
+   "file": "nunavut-70.jmv",
+   "bytes": 22043729,
+   "sha256": "065caf3f5ab59098a65c20d09715b9d89c07dd814c57d0e8fe71afbae90a8cad",
+   "south": 78.76779,
+   "west": -84.375,
+   "north": 79.43237,
+   "east": -82.26562
+  },
+  {
+   "file": "nunavut-71.jmv",
+   "bytes": 29804189,
+   "sha256": "793eeda07be5c0b6d82a02d1a0c44aa0a99471334a5504267273770754dad48a",
+   "south": 78.76779,
+   "west": -82.26562,
+   "north": 79.43237,
+   "east": -80.15625
+  },
+  {
+   "file": "nunavut-72.jmv",
+   "bytes": 21918271,
+   "sha256": "94979707132ca8afc30cfd2d99aa29ca18c21309e757b153809504a844982a71",
+   "south": 79.03844,
+   "west": -80.15625,
+   "north": 79.43237,
+   "east": -77.34375
+  },
+  {
+   "file": "nunavut-73.jmv",
+   "bytes": 38745446,
+   "sha256": "ee95de37b150feb2b3cd7233c7f5472b05e8cd9ba071c042e6e5de1adaf5ac07",
+   "south": 78.49055,
+   "west": -77.34375,
+   "north": 79.43237,
+   "east": -71.58691
+  },
+  {
+   "file": "nunavut-74.jmv",
+   "bytes": 29297307,
+   "sha256": "29803327382ffe88e56b144a3d220b208059321eb2c408a133a2d734860691e0",
+   "south": 78.49055,
+   "west": -80.15625,
+   "north": 79.03844,
+   "east": -77.34375
+  },
+  {
+   "file": "nunavut-75.jmv",
+   "bytes": 24588587,
+   "sha256": "5ac0ef9a22ee40cdf7304a9321a8993e15185100c9a475404f6e139c3a59f49c",
+   "south": 78.34941,
+   "west": -90.0,
+   "north": 78.90393,
+   "east": -87.89062
+  },
+  {
+   "file": "nunavut-76.jmv",
+   "bytes": 22821765,
+   "sha256": "f8ed02af0171965d036574f290f36ecae602ee504f4a4d60ea06be414eda1571",
+   "south": 78.34941,
+   "west": -93.51562,
+   "north": 78.76779,
+   "east": -90.0
+  },
+  {
+   "file": "nunavut-77.jmv",
+   "bytes": 25969302,
+   "sha256": "06d5ae6dbbfe002d1b9736d500c70ac9986f3f9c36bec4952f61f73255630a83",
+   "south": 78.34941,
+   "west": -87.89062,
+   "north": 78.76779,
+   "east": -84.375
+  },
+  {
+   "file": "nunavut-78.jmv",
+   "bytes": 23808762,
+   "sha256": "ccba95fbca52367b4b46145830280ac1ef1234787f9c5172b08af2b95ce091a0",
+   "south": 77.91567,
+   "west": -84.375,
+   "north": 78.76779,
+   "east": -82.96875
+  },
+  {
+   "file": "nunavut-79.jmv",
+   "bytes": 23780472,
+   "sha256": "b84a3cbbf32d6a583899158d1903065b2723b14ad9f6558046ffeedfa6f685ff",
+   "south": 77.91567,
+   "west": -82.96875,
+   "north": 78.76779,
+   "east": -80.15625
+  },
+  {
+   "file": "nunavut-80.jmv",
+   "bytes": 21442273,
+   "sha256": "9f792f750710ac7815417ed89423e8d47b53b066e06c84ab190e8a1f8d7fe74b",
+   "south": 77.91567,
+   "west": -80.15625,
+   "north": 78.49055,
+   "east": -78.04688
+  },
+  {
+   "file": "nunavut-81.jmv",
+   "bytes": 24841289,
+   "sha256": "abaaeeb2d3f53b70fd41aeeddb7dd40d7afba914e7a1a7bc5370af35f997e839",
+   "south": 77.91567,
+   "west": -78.04688,
+   "north": 78.49055,
+   "east": -72.55371
+  },
+  {
+   "file": "nunavut-82.jmv",
+   "bytes": 21720281,
+   "sha256": "15054703e16f9f7096c25817823b55155cc3360046d191db57e67fca310040d3",
+   "south": 76.185,
+   "west": -110.08301,
+   "north": 78.34941,
+   "east": -99.84375
+  },
+  {
+   "file": "nunavut-83.jmv",
+   "bytes": 22847492,
+   "sha256": "9242eda8768b1a13c3e28fe18073750f75696ae645389eca569d5522e0fdd6f9",
+   "south": 76.185,
+   "west": -93.51562,
+   "north": 78.34941,
+   "east": -90.0
+  },
+  {
+   "file": "nunavut-84.jmv",
+   "bytes": 27742863,
+   "sha256": "98b111b58e666e886fd9e0d9fe4b79cf3ca94afa790793c2407439f78cd34b60",
+   "south": 77.76758,
+   "west": -90.0,
+   "north": 78.34941,
+   "east": -84.375
+  },
+  {
+   "file": "nunavut-85.jmv",
+   "bytes": 22076149,
+   "sha256": "a87b25d70d32c509c8fb4bd9d5965eeaf2441301315f0379d0b2e5457e7607bb",
+   "south": 77.15716,
+   "west": -84.375,
+   "north": 77.91567,
+   "east": -82.26562
+  },
+  {
+   "file": "nunavut-86.jmv",
+   "bytes": 25816998,
+   "sha256": "182d3994a47a9128862548e917bc51e87472ec3c24233a1b03bd8b40c2b73252",
+   "south": 77.15716,
+   "west": -82.26562,
+   "north": 77.91567,
+   "east": -80.15625
+  },
+  {
+   "file": "nunavut-87.jmv",
+   "bytes": 20738837,
+   "sha256": "c4dd30e995f837b7ea051c31c7105a46077a69fc5acc5c50ca870ef4ad64e631",
+   "south": 76.67978,
+   "west": -80.15625,
+   "north": 77.91567,
+   "east": -79.45312
+  },
+  {
+   "file": "nunavut-88.jmv",
+   "bytes": 26200420,
+   "sha256": "1698cf2b0d25c7e814780081a7fc333daf53bca31486ebf0b3f050addc656e52",
+   "south": 76.67978,
+   "west": -79.45312,
+   "north": 77.91567,
+   "east": -74.83887
+  },
+  {
+   "file": "nunavut-89.jmv",
+   "bytes": 26052748,
+   "sha256": "9090851a4587345b5803695a5c9b829aea09ccfc4b1af4ebb50495343b77b028",
+   "south": 76.99994,
+   "west": -90.0,
+   "north": 77.76758,
+   "east": -84.375
+  },
+  {
+   "file": "nunavut-90.jmv",
+   "bytes": 27070213,
+   "sha256": "3121da0d4574b9f28d6a669d7bc03cc221c1fbf42e1fa7626bb0037da5308287",
+   "south": 76.67978,
+   "west": -84.375,
+   "north": 77.15716,
+   "east": -82.26562
+  },
+  {
+   "file": "nunavut-91.jmv",
+   "bytes": 23022083,
+   "sha256": "191e9f83290c040c1131c9a3cfdc87da03c68ee8cf29c78a3961a868796a8024",
+   "south": 76.67978,
+   "west": -82.26562,
+   "north": 77.15716,
+   "east": -80.15625
+  },
+  {
+   "file": "nunavut-92.jmv",
+   "bytes": 24452235,
+   "sha256": "6b5b46a082222fb819ba4c4075d4739a33af69971c1ca2b9b314528e9dc7f2b5",
+   "south": 76.185,
+   "west": -99.84375,
+   "north": 76.99994,
+   "east": -93.51562
+  },
+  {
+   "file": "nunavut-93.jmv",
+   "bytes": 25195928,
+   "sha256": "cc73a3bad7f8a9a16d56e1de41fcfc8f24d70f2a4966b727e6ce5cd4de62280c",
+   "south": 76.185,
+   "west": -90.0,
+   "north": 76.99994,
+   "east": -87.1875
+  },
+  {
+   "file": "nunavut-94.jmv",
+   "bytes": 23923379,
+   "sha256": "0654c1fb489a1f1ea5832c08bb65caa9f2abc18662668956f39befe3638e8dbf",
+   "south": 76.185,
+   "west": -87.1875,
+   "north": 76.99994,
+   "east": -84.375
+  },
+  {
+   "file": "nunavut-95.jmv",
+   "bytes": 25621627,
+   "sha256": "cd39a2c88edd90f538f266abb6c344d208817f56137e3a08d849125fbdbe47e5",
+   "south": 75.49716,
+   "west": -84.375,
+   "north": 76.67978,
+   "east": -81.5625
+  },
+  {
+   "file": "nunavut-96.jmv",
+   "bytes": 24549551,
+   "sha256": "895a34a824f91e7619e27eb3c66be6c168de02e78e49a7da9aa9821ed6010a39",
+   "south": 75.84517,
+   "west": -81.5625,
+   "north": 76.67978,
+   "east": -76.9043
+  },
+  {
+   "file": "nunavut-97.jmv",
+   "bytes": 23833642,
+   "sha256": "819ef0ee78721800e1d1eaa1c69e499045139222b94eee5bd6c1bef1acfbfca2",
+   "south": 73.62779,
+   "west": -110.08301,
+   "north": 76.185,
+   "east": -106.17188
+  },
+  {
+   "file": "nunavut-98.jmv",
+   "bytes": 24322308,
+   "sha256": "e4f6a2c7bdbe68e92434e5856cd21631dd8ba900957fbd5d522c855acde5a540",
+   "south": 73.62779,
+   "west": -106.17188,
+   "north": 76.185,
+   "east": -99.14062
+  },
+  {
+   "file": "nunavut-99.jmv",
+   "bytes": 23335929,
+   "sha256": "d15d9f0ef8e02870e666d773b49c5843182b2f9c421522279c7ae6736acc55ea",
+   "south": 74.21198,
+   "west": -99.14062,
+   "north": 76.185,
+   "east": -93.38379
+  },
+  {
+   "file": "nunavut-100.jmv",
+   "bytes": 22094353,
+   "sha256": "f25506d6a5340481804ccf3446ec0f5843af5871ff227ec43f69f85aa2230b62",
+   "south": 75.32003,
+   "west": -92.8125,
+   "north": 76.185,
+   "east": -88.59375
+  },
+  {
+   "file": "nunavut-101.jmv",
+   "bytes": 26183823,
+   "sha256": "f2fb9de65c946dfb6e2c3c2fcf606281d1928ec05264dcd19167d8bfa6041df6",
+   "south": 74.95939,
+   "west": -88.59375,
+   "north": 75.79134,
+   "east": -84.375
+  },
+  {
+   "file": "nunavut-102.jmv",
+   "bytes": 22096805,
+   "sha256": "248b3a4feaa2676e5781d45ba82cd8d76702c040fec92db59af6441ade31af10",
+   "south": 74.40216,
+   "west": -81.5625,
+   "north": 75.84517,
+   "east": -78.00293
+  },
+  {
+   "file": "nunavut-103.jmv",
+   "bytes": 21166046,
+   "sha256": "72c26b5bb2708f6724cda6878d5ca0a3946cb5189ef05050c8c64ebab261b1ac",
+   "south": 74.42578,
+   "west": -84.375,
+   "north": 75.49716,
+   "east": -81.5625
+  },
+  {
+   "file": "nunavut-104.jmv",
+   "bytes": 23841150,
+   "sha256": "6bc4fd7a0a09574a5d2dc393142010d25a73bd9373824c97682852681a2db81f",
+   "south": 74.01954,
+   "west": -92.8125,
+   "north": 75.32003,
+   "east": -88.59375
+  },
+  {
+   "file": "nunavut-105.jmv",
+   "bytes": 25664347,
+   "sha256": "b24838b72622c0c49700ff8f952d5eaa7745cce6cef1f74fecc67eb28b97816a",
+   "south": 74.36667,
+   "west": -88.59375,
+   "north": 74.95939,
+   "east": -84.375
+  },
+  {
+   "file": "nunavut-106.jmv",
+   "bytes": 21944224,
+   "sha256": "a6524e4048601022915f2ef3a43bb3a723961fa37bbbfe22f59664c7fbf3f481",
+   "south": 73.02259,
+   "west": -80.15625,
+   "north": 74.40216,
+   "east": -78.75
+  },
+  {
+   "file": "nunavut-107.jmv",
+   "bytes": 24398273,
+   "sha256": "7094ba4d6b38f2662ebacab9c0106318099eb861a562f57284d991772b00821d",
+   "south": 73.2267,
+   "west": -99.14062,
+   "north": 74.21198,
+   "east": -92.8125
+  },
+  {
+   "file": "nunavut-108.jmv",
+   "bytes": 22534825,
+   "sha256": "b78d03787f0c59894281e93595272a41c8112781c6d807ac1cd639ec7636ef86",
+   "south": 73.2267,
+   "west": -92.8125,
+   "north": 74.01954,
+   "east": -87.1875
+  },
+  {
+   "file": "nunavut-109.jmv",
+   "bytes": 28495774,
+   "sha256": "caa50fa1f9188c182792db5c6aef72a6395269d3bb0e5dad8dfdce78ec6a0637",
+   "south": 72.81607,
+   "west": -87.1875,
+   "north": 73.88592,
+   "east": -84.375
+  },
+  {
+   "file": "nunavut-110.jmv",
+   "bytes": 25170274,
+   "sha256": "c765d84802be8b45b7021906ecc212d86722b70ba3677f49666ba07f8d4064f4",
+   "south": 73.02259,
+   "west": -78.75,
+   "north": 73.87372,
+   "east": -75.41016
+  },
+  {
+   "file": "nunavut-111.jmv",
+   "bytes": 24823840,
+   "sha256": "cfbbf79507149fcf1a78b5adc21fa7ac9624dbf66ffcc1102a8cebbbbe23e172",
+   "south": 73.02259,
+   "west": -84.375,
+   "north": 73.81257,
+   "east": -82.26562
+  },
+  {
+   "file": "nunavut-112.jmv",
+   "bytes": 23498115,
+   "sha256": "549b628d99c2d7e507e090ca8319884b021bdbbe14280875c1c25678233ffa3f",
+   "south": 73.02259,
+   "west": -82.26562,
+   "north": 73.77578,
+   "east": -80.15625
+  },
+  {
+   "file": "nunavut-113.jmv",
+   "bytes": 26047250,
+   "sha256": "170fd94219a9586c88766131346b8b285f0b855d293703b2d9c98e8523a02ddb",
+   "south": 71.74643,
+   "west": -110.08301,
+   "north": 73.62779,
+   "east": -106.17188
+  },
+  {
+   "file": "nunavut-114.jmv",
+   "bytes": 25205976,
+   "sha256": "ec0fe5c9ce72f09631e419d54608f73633937ea58e83cb8a70773dc7798aa7c8",
+   "south": 71.74643,
+   "west": -106.17188,
+   "north": 73.62779,
+   "east": -99.14062
+  },
+  {
+   "file": "nunavut-115.jmv",
+   "bytes": 19791728,
+   "sha256": "16c55e7bed68c4c757160b8468e159ccace88026e3587a886eb60ef086828f4d",
+   "south": 71.74643,
+   "west": -99.14062,
+   "north": 73.2267,
+   "east": -95.625
+  },
+  {
+   "file": "nunavut-116.jmv",
+   "bytes": 24317265,
+   "sha256": "5ed7e074ce4286083a96db413bb9729ca858647ae6dc5d96f0509ad687b19ac7",
+   "south": 71.74643,
+   "west": -95.625,
+   "north": 73.2267,
+   "east": -92.8125
+  },
+  {
+   "file": "nunavut-117.jmv",
+   "bytes": 26044235,
+   "sha256": "8c3b58c3d5dec659bd375e17bef23deb41eca248d839eb2265e1f59b73a16b69",
+   "south": 71.74643,
+   "west": -92.8125,
+   "north": 73.2267,
+   "east": -87.1875
+  },
+  {
+   "file": "nunavut-118.jmv",
+   "bytes": 21441868,
+   "sha256": "7f19b1cc658d40557a9b2d9ba1049ddc91b84eed89092940c3caa3c7c50e4c5c",
+   "south": 72.60712,
+   "west": -84.375,
+   "north": 73.02259,
+   "east": -81.5625
+  },
+  {
+   "file": "nunavut-119.jmv",
+   "bytes": 17833111,
+   "sha256": "55922240813ed41ad14fb253a9ff5e6923ca9a1342c0fb0e457f19b5208fc4b2",
+   "south": 72.39571,
+   "west": -81.5625,
+   "north": 73.02259,
+   "east": -78.75
+  },
+  {
+   "file": "nunavut-120.jmv",
+   "bytes": 24692242,
+   "sha256": "ed48dcf3b5d1b81efce0b18431024f65962563279b815aa2e55a2bca63f10427",
+   "south": 72.39571,
+   "west": -78.75,
+   "north": 73.02259,
+   "east": -76.64062
+  },
+  {
+   "file": "nunavut-121.jmv",
+   "bytes": 19465774,
+   "sha256": "bf12c8265980a5e4dcad173a8201e30b5210ff10d71397f66ee2f2f8842aa793",
+   "south": 71.74643,
+   "west": -76.64062,
+   "north": 73.02259,
+   "east": -75.9375
+  },
+  {
+   "file": "nunavut-122.jmv",
+   "bytes": 25588989,
+   "sha256": "94defc99fe354c8fb9b5164c9a591709bc31a46d091419b99b62082098df2073",
+   "south": 71.74643,
+   "west": -75.9375,
+   "north": 73.02259,
+   "east": -71.63086
+  },
+  {
+   "file": "nunavut-123.jmv",
+   "bytes": 24092734,
+   "sha256": "d1810b91b46c7ac9947037d0bc33a5843b480eae8b81eaf1c08b36326398fc22",
+   "south": 71.74643,
+   "west": -87.1875,
+   "north": 72.81607,
+   "east": -84.375
+  },
+  {
+   "file": "nunavut-124.jmv",
+   "bytes": 27981701,
+   "sha256": "fa35b9337517c2c77640cb367d02fce1fcc9d84e0dac9dc6e6ccbcea825b12ca",
+   "south": 71.74643,
+   "west": -84.375,
+   "north": 72.60712,
+   "east": -81.5625
+  },
+  {
+   "file": "nunavut-125.jmv",
+   "bytes": 27004253,
+   "sha256": "74e130f3f04d5c6e95e23d9452bbd26c254e5d3f50aea2fba35d51d131164b62",
+   "south": 71.74643,
+   "west": -81.5625,
+   "north": 72.39571,
+   "east": -78.75
+  },
+  {
+   "file": "nunavut-126.jmv",
+   "bytes": 28331998,
+   "sha256": "fda876ffded3e5e60f65aa820b9d5277a941656ea35e209487ccfeb876fe63ea",
+   "south": 71.74643,
+   "west": -78.75,
+   "north": 72.39571,
+   "east": -76.64062
+  },
+  {
+   "file": "nunavut-127.jmv",
+   "bytes": 25844017,
+   "sha256": "f755998c56bd7d257bd8e4e95fbad97826e18c5ea629c1a75bea2f74ef8bb858",
+   "south": 69.41124,
+   "west": -113.90625,
+   "north": 71.74643,
+   "east": -109.6875
+  },
+  {
+   "file": "nunavut-128.jmv",
+   "bytes": 21887846,
+   "sha256": "69b64351a04ae4c9978a5c765e1d6344a45076e4b6b96bb82fc364fabafd4c55",
+   "south": 70.37785,
+   "west": -109.6875,
+   "north": 71.74643,
+   "east": -106.875
+  },
+  {
+   "file": "nunavut-129.jmv",
+   "bytes": 20559405,
+   "sha256": "55be3c58868bf5239eae02af0a97c76992e4924d79a39cf0f2b9622420319c64",
+   "south": 70.37785,
+   "west": -106.875,
+   "north": 71.74643,
+   "east": -103.35938
+  },
+  {
+   "file": "nunavut-130.jmv",
+   "bytes": 22858071,
+   "sha256": "0e814cdbab3d305f6ce82a7c00c8f7b6a5572133f2b53f013749d221781803e6",
+   "south": 68.911,
+   "west": -103.35938,
+   "north": 71.74643,
+   "east": -97.03125
+  },
+  {
+   "file": "nunavut-131.jmv",
+   "bytes": 23534761,
+   "sha256": "7f71383a8b908ba27208de0b3ad604e78a44e75a1b4381ce44911c68001c45f6",
+   "south": 68.911,
+   "west": -97.03125,
+   "north": 71.74643,
+   "east": -94.92188
+  },
+  {
+   "file": "nunavut-132.jmv",
+   "bytes": 21085461,
+   "sha256": "5b9e9b7977f390686c8198803ce00ff32aab40769f7f7b8cb3c84926764a232d",
+   "south": 70.61261,
+   "west": -94.92188,
+   "north": 71.74643,
+   "east": -92.8125
+  },
+  {
+   "file": "nunavut-133.jmv",
+   "bytes": 24809249,
+   "sha256": "7622b51ec13d9205cc584392003955784e566156590da4a3eb07b719d7ed8ff1",
+   "south": 69.90012,
+   "west": -92.8125,
+   "north": 71.74643,
+   "east": -87.1875
+  },
+  {
+   "file": "nunavut-134.jmv",
+   "bytes": 22634345,
+   "sha256": "0ad9c005344e772f4a33f0baf72da9cd5b64aa6efd3a2892a3e152d9a487bb4b",
+   "south": 69.90012,
+   "west": -87.1875,
+   "north": 71.74643,
+   "east": -85.07812
+  },
+  {
+   "file": "nunavut-135.jmv",
+   "bytes": 25010683,
+   "sha256": "c776e8292561b453468a4cae4956c178f88325693e86c6f17454c187e57a0f53",
+   "south": 70.37785,
+   "west": -85.07812,
+   "north": 71.74643,
+   "east": -82.26562
+  },
+  {
+   "file": "nunavut-136.jmv",
+   "bytes": 20332534,
+   "sha256": "b05e94010a50ab7543bf7af00a59c01b4618c4bd51fbbcf7263fc21adabd21fd",
+   "south": 70.37785,
+   "west": -82.26562,
+   "north": 71.74643,
+   "east": -80.15625
+  },
+  {
+   "file": "nunavut-137.jmv",
+   "bytes": 27417306,
+   "sha256": "2d71402a814652051a1026bebb68ea2d166dbceb78cf1b10b526a01f718f12ff",
+   "south": 71.07406,
+   "west": -80.15625,
+   "north": 71.74643,
+   "east": -76.64062
+  },
+  {
+   "file": "nunavut-138.jmv",
+   "bytes": 23051968,
+   "sha256": "28c4a6591466f963082f72525d777362c50786b3b081ca951162b4686eb4dff0",
+   "south": 71.30079,
+   "west": -76.64062,
+   "north": 71.74643,
+   "east": -74.53125
+  },
+  {
+   "file": "nunavut-139.jmv",
+   "bytes": 31979746,
+   "sha256": "d5e02af138fb62eeb1154e3c21f0ae8d30023e5f16de51d15679043d477987f7",
+   "south": 71.07406,
+   "west": -74.53125,
+   "north": 71.74643,
+   "east": -72.42188
+  },
+  {
+   "file": "nunavut-140.jmv",
+   "bytes": 21535753,
+   "sha256": "bec6f0568f7acd4a068e96c7fe17e04bd9684fc0e19db7b69b825d5cdad1f368",
+   "south": 70.84467,
+   "west": -72.42188,
+   "north": 71.74643,
+   "east": -71.01562
+  },
+  {
+   "file": "nunavut-141.jmv",
+   "bytes": 23039631,
+   "sha256": "9c907b926348295411a62c5c6765fc70c6a967c67dae92530f12ebf8186eaf70",
+   "south": 70.37785,
+   "west": -71.01562,
+   "north": 71.60828,
+   "east": -67.28027
+  },
+  {
+   "file": "nunavut-142.jmv",
+   "bytes": 20864643,
+   "sha256": "b49a97b07c2ce8f0e8cfe39262f955c6e322d07d8cae97a26a59f9217e794254",
+   "south": 70.37785,
+   "west": -76.64062,
+   "north": 71.30079,
+   "east": -74.53125
+  },
+  {
+   "file": "nunavut-143.jmv",
+   "bytes": 21662030,
+   "sha256": "14e3bb3fd238ffc36d2ec2a876e38fce1e8171295bc8bdc4ba573320315a32cc",
+   "south": 70.37785,
+   "west": -80.15625,
+   "north": 71.07406,
+   "east": -76.64062
+  },
+  {
+   "file": "nunavut-144.jmv",
+   "bytes": 22154729,
+   "sha256": "f135e7c98429c47bfd8444f671d52b1a74752ae9bca871e84c4279153eb8131e",
+   "south": 70.37785,
+   "west": -74.53125,
+   "north": 71.07406,
+   "east": -72.42188
+  },
+  {
+   "file": "nunavut-145.jmv",
+   "bytes": 31261184,
+   "sha256": "ea5f576aecd738a204c4cabd4658f2cac97690e2c7e98de2263e34d367235974",
+   "south": 69.90012,
+   "west": -72.42188,
+   "north": 70.84467,
+   "east": -71.01562
+  },
+  {
+   "file": "nunavut-146.jmv",
+   "bytes": 25829515,
+   "sha256": "eb166082c131419dcb8964aaf9ed7ff0094ca40df39f8348cff70a5173372c4d",
+   "south": 68.911,
+   "west": -94.92188,
+   "north": 70.61261,
+   "east": -92.8125
+  },
+  {
+   "file": "nunavut-147.jmv",
+   "bytes": 25213151,
+   "sha256": "687dd5a653c632c18c245bb34a4f6bae2ad6842f6e2687528e94b820fbc181cc",
+   "south": 69.16256,
+   "west": -109.6875,
+   "north": 70.37785,
+   "east": -106.17188
+  },
+  {
+   "file": "nunavut-148.jmv",
+   "bytes": 21157275,
+   "sha256": "b05f9ef738b3f8f540b78f1a00366a912999177f75175ba43472f8630270b56d",
+   "south": 69.16256,
+   "west": -106.17188,
+   "north": 70.37785,
+   "east": -103.35938
+  },
+  {
+   "file": "nunavut-149.jmv",
+   "bytes": 21647138,
+   "sha256": "938c3c484d5ce3f2f352b5ae58a7436c5ecd416fcb1a866017a94e91e29b0ed8",
+   "south": 69.65709,
+   "west": -85.07812,
+   "north": 70.37785,
+   "east": -81.5625
+  },
+  {
+   "file": "nunavut-150.jmv",
+   "bytes": 22097408,
+   "sha256": "32aa95031fd15b4988a6ff3b643eb51de930c2509c36fcfafbbbf0536f78c298",
+   "south": 69.90012,
+   "west": -81.5625,
+   "north": 70.37785,
+   "east": -75.23438
+  },
+  {
+   "file": "nunavut-151.jmv",
+   "bytes": 28227311,
+   "sha256": "fd555c2a677bae74e93ad09d19d0d9a10b0d5fc4554ad2f21e131719aad79e6e",
+   "south": 69.16256,
+   "west": -75.23438,
+   "north": 70.37785,
+   "east": -72.42188
+  },
+  {
+   "file": "nunavut-152.jmv",
+   "bytes": 26047407,
+   "sha256": "776ade8db76c86bedfb2f6867b453665f8d73dded6111a48814e433576f38341",
+   "south": 69.90012,
+   "west": -71.01562,
+   "north": 70.37785,
+   "east": -66.62109
+  },
+  {
+   "file": "nunavut-153.jmv",
+   "bytes": 23407845,
+   "sha256": "44255340116ce4b10bad71aff0872b0fd058815185c6797e38ad864244eb892b",
+   "south": 68.13885,
+   "west": -120.80566,
+   "north": 70.0506,
+   "east": -116.71875
+  },
+  {
+   "file": "nunavut-154.jmv",
+   "bytes": 21712701,
+   "sha256": "df15bc1b0fa488822175615bbb67e676430626fb62ad7abd6f17174df438e127",
+   "south": 68.13885,
+   "west": -116.71875,
+   "north": 70.0356,
+   "east": -113.90625
+  },
+  {
+   "file": "nunavut-155.jmv",
+   "bytes": 21591773,
+   "sha256": "dece03f09e5544a5f9b43a6b0c88ace0cfb85b44612d289111caa02b720502df",
+   "south": 68.39918,
+   "west": -92.8125,
+   "north": 69.90012,
+   "east": -91.40625
+  },
+  {
+   "file": "nunavut-156.jmv",
+   "bytes": 27793561,
+   "sha256": "f82df1f821711e80a5de5b57183aa0be45f04567abe3b453da9543fa413fd0d3",
+   "south": 68.39918,
+   "west": -91.40625,
+   "north": 69.88501,
+   "east": -85.07812
+  },
+  {
+   "file": "nunavut-157.jmv",
+   "bytes": 26720118,
+   "sha256": "fe82cb1f48712edd09f094609f7568ac1ab95c6dbba0ed73c4838f597093726d",
+   "south": 67.06743,
+   "west": -81.5625,
+   "north": 69.90012,
+   "east": -75.23438
+  },
+  {
+   "file": "nunavut-158.jmv",
+   "bytes": 39666954,
+   "sha256": "4dd32a5a5279f0d8ab2d853fcc5d5265b07eb61c76f536200c3e326ae6f5b688",
+   "south": 68.65655,
+   "west": -72.42188,
+   "north": 69.90012,
+   "east": -69.60938
+  },
+  {
+   "file": "nunavut-159.jmv",
+   "bytes": 25179286,
+   "sha256": "aab2a719b1c48eea72e8eacffdc87d630932a5c96814663bcc8064bbaf4896e2",
+   "south": 68.65655,
+   "west": -69.60938,
+   "north": 69.90012,
+   "east": -68.90625
+  },
+  {
+   "file": "nunavut-160.jmv",
+   "bytes": 28892377,
+   "sha256": "1fcc31f6536f6688aa7d7be794f1cec438c6665ef2468547e0a809be8995b4c4",
+   "south": 68.65655,
+   "west": -68.90625,
+   "north": 69.90012,
+   "east": -66.0498
+  },
+  {
+   "file": "nunavut-161.jmv",
+   "bytes": 21450795,
+   "sha256": "3b4e2319cbf193e2d99e0f3883c78d6cb9a9dd6008a29f1159c1b8274e0b9bbe",
+   "south": 68.911,
+   "west": -85.07812,
+   "north": 69.65709,
+   "east": -81.5625
+  },
+  {
+   "file": "nunavut-162.jmv",
+   "bytes": 18762029,
+   "sha256": "9596be213fee769ba35a4234b4872c48f612532651fdf78f437103b769330f8c",
+   "south": 68.13885,
+   "west": -113.90625,
+   "north": 69.41124,
+   "east": -109.6875
+  },
+  {
+   "file": "nunavut-163.jmv",
+   "bytes": 21210378,
+   "sha256": "d6fb493e9dfa7de33a76c7b4a6adfea11e669fb79ad70be36904777ae0e480ef",
+   "south": 67.60922,
+   "west": -109.6875,
+   "north": 69.16256,
+   "east": -106.875
+  },
+  {
+   "file": "nunavut-164.jmv",
+   "bytes": 25964549,
+   "sha256": "acc202022321870c3a356b414013a2f48537f0637a3b117ac00153131f95a7f1",
+   "south": 67.60922,
+   "west": -106.875,
+   "north": 69.16256,
+   "east": -103.35938
+  },
+  {
+   "file": "nunavut-165.jmv",
+   "bytes": 21509236,
+   "sha256": "574de4c4f81cf689f265fbf1f135c0a34ad26586427cab09a37cfbdf002c8deb",
+   "south": 67.06743,
+   "west": -75.23438,
+   "north": 69.16256,
+   "east": -72.42188
+  },
+  {
+   "file": "nunavut-166.jmv",
+   "bytes": 21031156,
+   "sha256": "3e624072b01161e37bae209b5fbab3ef8b5da6e0a29a65e19620f50a87b41592",
+   "south": 66.79191,
+   "west": -103.35938,
+   "north": 68.911,
+   "east": -99.84375
+  },
+  {
+   "file": "nunavut-167.jmv",
+   "bytes": 22684691,
+   "sha256": "ef2889e68d1ec5c5fa6e4f9b55e68d8bca480d1f87bbdc52a514839894d5f659",
+   "south": 66.79191,
+   "west": -99.84375,
+   "north": 68.911,
+   "east": -97.03125
+  },
+  {
+   "file": "nunavut-168.jmv",
+   "bytes": 18904148,
+   "sha256": "eeaf3d4dcb5e2d2e924016154b39c417fa4b96f5107beccfacb7ef94ee916b71",
+   "south": 67.60922,
+   "west": -97.03125,
+   "north": 68.911,
+   "east": -92.8125
+  },
+  {
+   "file": "nunavut-169.jmv",
+   "bytes": 28339239,
+   "sha256": "9f21ed5472c1e055f74254fcd2d47f08495b17be35123c907b9994d4c1818b0e",
+   "south": 67.87554,
+   "west": -85.07812,
+   "north": 68.911,
+   "east": -81.5625
+  },
+  {
+   "file": "nunavut-170.jmv",
+   "bytes": 24941727,
+   "sha256": "e35c3b635d83ee5e8453e1ce5521c514642b773096493ed96565063c00b5db95",
+   "south": 67.87554,
+   "west": -72.42188,
+   "north": 68.65655,
+   "east": -69.60938
+  },
+  {
+   "file": "nunavut-171.jmv",
+   "bytes": 21522261,
+   "sha256": "2f077977b2af5ce9b5f8861d18b5a0d8340b83ceace5e70d31e7fe7ad0ecef76",
+   "south": 68.13885,
+   "west": -69.60938,
+   "north": 68.65655,
+   "east": -67.5
+  },
+  {
+   "file": "nunavut-172.jmv",
+   "bytes": 21728962,
+   "sha256": "9a34aecf6afea0851eff614cbeeae4331f12dd84a4d9c9c93f46662dd0e3caac",
+   "south": 67.87554,
+   "west": -67.5,
+   "north": 68.65655,
+   "east": -65.39062
+  },
+  {
+   "file": "nunavut-173.jmv",
+   "bytes": 27822366,
+   "sha256": "81df2b47d5ae397fca6b23817ee931f4f550cb9beeda55f3e22eff57f45535b4",
+   "south": 67.60922,
+   "west": -92.8125,
+   "north": 68.39918,
+   "east": -89.29688
+  },
+  {
+   "file": "nunavut-174.jmv",
+   "bytes": 28109406,
+   "sha256": "6a3e90a90378d2ab9da034e8b33bad781f664e9392e41dcd2c3ef9a396c1454b",
+   "south": 66.79191,
+   "west": -89.29688,
+   "north": 68.39918,
+   "east": -86.48438
+  },
+  {
+   "file": "nunavut-175.jmv",
+   "bytes": 29204808,
+   "sha256": "be41da54ffa7af79ab9e7ef9156b3947f595aa067d5b225470d11bd583959bda",
+   "south": 66.79191,
+   "west": -86.48438,
+   "north": 68.39918,
+   "east": -85.07812
+  },
+  {
+   "file": "nunavut-176.jmv",
+   "bytes": 40188013,
+   "sha256": "0049f8b67d0392d43c22aa5506b8340054ccee0c4436fc67e9897cd354485031",
+   "south": 67.06743,
+   "west": -65.39062,
+   "north": 68.383,
+   "east": -61.30371
+  },
+  {
+   "file": "nunavut-177.jmv",
+   "bytes": 21571602,
+   "sha256": "03f21666ecc8b1eda3bbc2e26e7b6fddd5eaf03970226566d9014e9ec2b3a203",
+   "south": 66.79191,
+   "west": -120.76172,
+   "north": 68.13885,
+   "east": -116.01562
+  },
+  {
+   "file": "nunavut-178.jmv",
+   "bytes": 23231615,
+   "sha256": "358cb5233198bf0bf222d913a186c4dc895e57fb265e63e1c1b39c2943096abf",
+   "south": 66.79191,
+   "west": -116.01562,
+   "north": 68.13885,
+   "east": -113.20312
+  },
+  {
+   "file": "nunavut-179.jmv",
+   "bytes": 31206095,
+   "sha256": "128360de6bb2ca51607b70d168247e07f844593a7a22b1cf01478a6cf2c2964a",
+   "south": 66.79191,
+   "west": -113.20312,
+   "north": 68.13885,
+   "east": -111.09375
+  },
+  {
+   "file": "nunavut-180.jmv",
+   "bytes": 21192772,
+   "sha256": "754be0ddbc712ff5839e652bc274c9418ddedcf53d36edebf61c6b2770c3915c",
+   "south": 66.79191,
+   "west": -111.09375,
+   "north": 68.13885,
+   "east": -109.6875
+  },
+  {
+   "file": "nunavut-181.jmv",
+   "bytes": 25635768,
+   "sha256": "3564abad6404ba67b6b5ae9e40f850b9fae40be868cf87edca1a26758e1f3393",
+   "south": 67.06743,
+   "west": -69.60938,
+   "north": 68.13885,
+   "east": -67.5
+  },
+  {
+   "file": "nunavut-182.jmv",
+   "bytes": 22819098,
+   "sha256": "a1a87a5ebde72e5ec9d7ea9e090516499a3c05206814bd0238b541d639705457",
+   "south": 67.06743,
+   "west": -85.07812,
+   "north": 67.87554,
+   "east": -81.5625
+  },
+  {
+   "file": "nunavut-183.jmv",
+   "bytes": 30719636,
+   "sha256": "4ba2f048be8f018c738d2d8334afdf0eade45a51d7f649ad795ea16d33fbec91",
+   "south": 67.06743,
+   "west": -72.42188,
+   "north": 67.87554,
+   "east": -69.60938
+  },
+  {
+   "file": "nunavut-184.jmv",
+   "bytes": 33353439,
+   "sha256": "2d04f4fb89f9513843363f82a22ed01a69bf576341e104e11dfe7491c6d5e91f",
+   "south": 67.06743,
+   "west": -67.5,
+   "north": 67.87554,
+   "east": -65.39062
+  },
+  {
+   "file": "nunavut-185.jmv",
+   "bytes": 26153914,
+   "sha256": "48ca4b535ab9e0f9d5508f1bceb9ed2b4d8a11b035d0f98d6f2c66ee1990e854",
+   "south": 66.79191,
+   "west": -109.6875,
+   "north": 67.60922,
+   "east": -106.875
+  },
+  {
+   "file": "nunavut-186.jmv",
+   "bytes": 23359183,
+   "sha256": "a3a36874989aa85edb71f5c10b12905369307bb419fcbf2318b4ba14cb7532d8",
+   "south": 66.79191,
+   "west": -106.875,
+   "north": 67.60922,
+   "east": -103.35938
+  },
+  {
+   "file": "nunavut-187.jmv",
+   "bytes": 25220637,
+   "sha256": "089ffb82088bdf6749f637153c43a2b802ae5543b71558a7128db1b9729ebfe6",
+   "south": 66.79191,
+   "west": -97.03125,
+   "north": 67.60922,
+   "east": -92.8125
+  },
+  {
+   "file": "nunavut-188.jmv",
+   "bytes": 24803574,
+   "sha256": "b84336197490264101c1f87822af687d8d334b1cd14812617b5acfbbb403023f",
+   "south": 66.79191,
+   "west": -92.8125,
+   "north": 67.60922,
+   "east": -89.29688
+  },
+  {
+   "file": "nunavut-189.jmv",
+   "bytes": 21597588,
+   "sha256": "54fc2db284def5ca246c0662e930bf0c0d3d7b4df3254615d63727d2c8639f0c",
+   "south": 64.77413,
+   "west": -85.07812,
+   "north": 67.06743,
+   "east": -83.67188
+  },
+  {
+   "file": "nunavut-190.jmv",
+   "bytes": 28282935,
+   "sha256": "8dd73f9e7c2940cf19eb1e8149e696881dfcd78d36469f91dc35b30696d98415",
+   "south": 64.77413,
+   "west": -83.67188,
+   "north": 67.06743,
+   "east": -73.82812
+  },
+  {
+   "file": "nunavut-191.jmv",
+   "bytes": 22052471,
+   "sha256": "f68c7cc6d07eaa50690be397d16d2733a7e32cbc5cbd308b1d25d5b66a640a78",
+   "south": 65.94647,
+   "west": -73.82812,
+   "north": 67.06743,
+   "east": -69.60938
+  },
+  {
+   "file": "nunavut-192.jmv",
+   "bytes": 28407863,
+   "sha256": "054441d27ebc224d7c708b908655f7e314d69b0e9ed7c3e39b59b0be2da0318e",
+   "south": 65.94647,
+   "west": -69.60938,
+   "north": 67.06743,
+   "east": -68.20312
+  },
+  {
+   "file": "nunavut-193.jmv",
+   "bytes": 33497486,
+   "sha256": "83fd7fd068f0514a745dff59bf11c2fd49ece1f54cd99ba8499aee6437a0d944",
+   "south": 65.94647,
+   "west": -68.20312,
+   "north": 67.06743,
+   "east": -66.79688
+  },
+  {
+   "file": "nunavut-194.jmv",
+   "bytes": 18743902,
+   "sha256": "ae32d6fad1cef010512352e86af0b91820b77605241bd5aec346defa086cf7ad",
+   "south": 66.51326,
+   "west": -66.79688,
+   "north": 67.06743,
+   "east": -65.39062
+  },
+  {
+   "file": "nunavut-195.jmv",
+   "bytes": 30349742,
+   "sha256": "e480433e0d27e06628f8cd81fe639b74c65ddd1aab31f1093bdfeb5ad8ab709e",
+   "south": 66.51326,
+   "west": -65.39062,
+   "north": 67.06743,
+   "east": -63.98438
+  },
+  {
+   "file": "nunavut-196.jmv",
+   "bytes": 21659483,
+   "sha256": "549676cb3950f73c4f6a99be89fa76c0c73f75c21f25057ee05af169fab3f392",
+   "south": 66.51326,
+   "west": -63.98438,
+   "north": 67.06743,
+   "east": -62.57812
+  },
+  {
+   "file": "nunavut-197.jmv",
+   "bytes": 21038672,
+   "sha256": "5989f3bccc2563a5df1fc9cdbf43a8340f3c7b4525ae728e0847df2cf7c18363",
+   "south": 66.51326,
+   "west": -62.57812,
+   "north": 67.06743,
+   "east": -60.73242
+  },
+  {
+   "file": "nunavut-198.jmv",
+   "bytes": 18504319,
+   "sha256": "070c4cc6d611534581d558fc7420a26a8a2d04a8b4be3a87451020e986e1aae3",
+   "south": 65.71256,
+   "west": -116.54297,
+   "north": 66.79191,
+   "east": -113.20312
+  },
+  {
+   "file": "nunavut-199.jmv",
+   "bytes": 28856326,
+   "sha256": "0f8f975ac69afff14ce974df9d1c60fc6e98589a5ab2ea5e12a286af8815af37",
+   "south": 65.45826,
+   "west": -113.20312,
+   "north": 66.79191,
+   "east": -111.09375
+  },
+  {
+   "file": "nunavut-200.jmv",
+   "bytes": 26191649,
+   "sha256": "60cb99869dc1c1a496b70f3ac1a3161c1142fed52e2ea190e63746967d515230",
+   "south": 65.94647,
+   "west": -111.09375,
+   "north": 66.79191,
+   "east": -107.57812
+  },
+  {
+   "file": "nunavut-201.jmv",
+   "bytes": 22080403,
+   "sha256": "eca6b58d3332e2c6dbd49e8dcd4ad8c9f7d841db13c61a076b4da408f62f7cb5",
+   "south": 65.94647,
+   "west": -107.57812,
+   "north": 66.79191,
+   "east": -105.46875
+  },
+  {
+   "file": "nunavut-202.jmv",
+   "bytes": 21990650,
+   "sha256": "5b85c86c33cf5b0abd4f06b69080f835e51118551a9b6f8b40e8547da00eaae2",
+   "south": 65.94647,
+   "west": -105.46875,
+   "north": 66.79191,
+   "east": -102.65625
+  },
+  {
+   "file": "nunavut-203.jmv",
+   "bytes": 22850175,
+   "sha256": "e598644ac5eecd34c828c0b2f80e46f3116390fd1e67abb4b627a857466bcb89",
+   "south": 65.36684,
+   "west": -102.65625,
+   "north": 66.79191,
+   "east": -100.54688
+  },
+  {
+   "file": "nunavut-204.jmv",
+   "bytes": 29576381,
+   "sha256": "b19f3fb757e454a27ff6e641550751ab086e309ba9617f4ed73ede086d446536",
+   "south": 65.36684,
+   "west": -100.54688,
+   "north": 66.79191,
+   "east": -97.73438
+  },
+  {
+   "file": "nunavut-205.jmv",
+   "bytes": 23255139,
+   "sha256": "1c990fa14f3f93cd124828e022826504e3e0c6e7559350f00830fe50c6741cca",
+   "south": 65.94647,
+   "west": -97.73438,
+   "north": 66.79191,
+   "east": -94.92188
+  },
+  {
+   "file": "nunavut-206.jmv",
+   "bytes": 38957564,
+   "sha256": "e6e8c6bcd8ca7d74e6a12480924517ba31d11b71b2521e1c8c52e753b0a67f9b",
+   "south": 64.77413,
+   "west": -94.92188,
+   "north": 66.79191,
+   "east": -92.8125
+  },
+  {
+   "file": "nunavut-207.jmv",
+   "bytes": 29095774,
+   "sha256": "9d51b44960d1e3fccf673802d0171d23a9ddd42cdcfa216ad30e1bf859c5d8f1",
+   "south": 65.65827,
+   "west": -92.8125,
+   "north": 66.79191,
+   "east": -89.29688
+  },
+  {
+   "file": "nunavut-208.jmv",
+   "bytes": 22065439,
+   "sha256": "f0566c8d5b2cf71c4d22713dc9e3bf5d2c3317e7ed14ed94971cd16a6a2fc2da",
+   "south": 65.94647,
+   "west": -89.29688,
+   "north": 66.79191,
+   "east": -85.07812
+  },
+  {
+   "file": "nunavut-209.jmv",
+   "bytes": 26487727,
+   "sha256": "891f6164704937ef089f193d15c6d2a2a4d3f57eaaa9748da107d8423660984c",
+   "south": 66.23146,
+   "west": -66.79688,
+   "north": 66.51326,
+   "east": -63.98438
+  },
+  {
+   "file": "nunavut-210.jmv",
+   "bytes": 32296822,
+   "sha256": "283e295e2e7469b6ee29a502c878caec88af90380586b042b2c92ff89f179fd5",
+   "south": 65.94647,
+   "west": -63.98438,
+   "north": 66.51326,
+   "east": -60.77637
+  },
+  {
+   "file": "nunavut-211.jmv",
+   "bytes": 38040606,
+   "sha256": "f3dc037b93063a65b0ac2d8b51661bff98b897e247068019bcb4b889816c5f22",
+   "south": 64.77413,
+   "west": -66.79688,
+   "north": 66.23146,
+   "east": -63.98438
+  },
+  {
+   "file": "nunavut-212.jmv",
+   "bytes": 24903365,
+   "sha256": "e44c140d963472b30905494f1fd3bd43196da871f38c4f5edb21832f9c5ec1d4",
+   "south": 64.69911,
+   "west": -111.09375,
+   "north": 65.94647,
+   "east": -107.57812
+  },
+  {
+   "file": "nunavut-213.jmv",
+   "bytes": 25885269,
+   "sha256": "9ac80a6df32743580be2c90117ab294c9ff64b9de572f9ae1d07e54c8e0b1f31",
+   "south": 64.47279,
+   "west": -107.57812,
+   "north": 65.94647,
+   "east": -104.76562
+  },
+  {
+   "file": "nunavut-214.jmv",
+   "bytes": 22485348,
+   "sha256": "776dfb744d9564225be622d58a4df8f300b62a7aac7dfcb9030053dadf3b63e4",
+   "south": 64.26368,
+   "west": -104.76562,
+   "north": 65.94647,
+   "east": -102.65625
+  },
+  {
+   "file": "nunavut-215.jmv",
+   "bytes": 29563531,
+   "sha256": "b1c12cb69a6b3f4eb7d8210b24011baaa0befc15a500754a9da8eeb39ea6d4c4",
+   "south": 64.77413,
+   "west": -97.73438,
+   "north": 65.94647,
+   "east": -94.92188
+  },
+  {
+   "file": "nunavut-216.jmv",
+   "bytes": 25483124,
+   "sha256": "b214a9cfa4e0d99b314f703c66f4fcb16a8fd4af894f93cfde801c61db17ea36",
+   "south": 64.77413,
+   "west": -89.29688,
+   "north": 65.94647,
+   "east": -85.07812
+  },
+  {
+   "file": "nunavut-217.jmv",
+   "bytes": 27421739,
+   "sha256": "8d9492ef70e256fc3091d7c90e8869cdb5d997f104f64576b8bf6a722e8d88a7",
+   "south": 64.77413,
+   "west": -73.82812,
+   "north": 65.94647,
+   "east": -69.60938
+  },
+  {
+   "file": "nunavut-218.jmv",
+   "bytes": 18810879,
+   "sha256": "13baf862722357cb42900134d273fe87b556eff047b7c2ead9b07b2617a4631b",
+   "south": 64.77413,
+   "west": -69.60938,
+   "north": 65.94647,
+   "east": -68.20312
+  },
+  {
+   "file": "nunavut-219.jmv",
+   "bytes": 32427865,
+   "sha256": "3b3858b02e2a14f6c00264204e04b69d4ed4fc48038c8ceacd2d95d90c7fd611",
+   "south": 64.77413,
+   "west": -68.20312,
+   "north": 65.94647,
+   "east": -66.79688
+  },
+  {
+   "file": "nunavut-220.jmv",
+   "bytes": 24909774,
+   "sha256": "0a2c30982f8a7c5976612a0a6a1b8563a8bd7f355994d4abeb77b67f131cf144",
+   "south": 64.77413,
+   "west": -63.98438,
+   "north": 65.94647,
+   "east": -61.43555
+  },
+  {
+   "file": "nunavut-221.jmv",
+   "bytes": 23065518,
+   "sha256": "53f7f74f9e394dda0d9e5a93330fc1d55dec44656bff095b9d0061e2f59a294a",
+   "south": 64.77413,
+   "west": -92.8125,
+   "north": 65.65827,
+   "east": -89.29688
+  },
+  {
+   "file": "nunavut-222.jmv",
+   "bytes": 22649018,
+   "sha256": "a2004346c3c50a36c7c98e29e8e4757a220d64ffe2d53e14679f4588c914fde0",
+   "south": 63.54855,
+   "west": -102.65625,
+   "north": 65.36684,
+   "east": -100.54688
+  },
+  {
+   "file": "nunavut-223.jmv",
+   "bytes": 30244025,
+   "sha256": "05d6719a5c47a2dc5f3d7de9026b2261848d1836e91121b07299f6762f2ce6a1",
+   "south": 63.54855,
+   "west": -100.54688,
+   "north": 65.36684,
+   "east": -97.73438
+  },
+  {
+   "file": "nunavut-224.jmv",
+   "bytes": 29841304,
+   "sha256": "eba26904e896d93ab06fb48013d8f4e294995fde390cd02f86450a6563d74132",
+   "south": 63.23363,
+   "west": -97.73438,
+   "north": 64.77413,
+   "east": -94.21875
+  },
+  {
+   "file": "nunavut-225.jmv",
+   "bytes": 25163751,
+   "sha256": "12edb91ff04ded99e739a1ad3b029f17bb0cf7a6e87edd59eebecd5bff0dd319",
+   "south": 63.23363,
+   "west": -94.21875,
+   "north": 64.77413,
+   "east": -92.10938
+  },
+  {
+   "file": "nunavut-226.jmv",
+   "bytes": 22596842,
+   "sha256": "4c45538bfc09855d35710a30ed1b3f8f2915a009c3bf63a48b5369648d6e803c",
+   "south": 63.23363,
+   "west": -92.10938,
+   "north": 64.77413,
+   "east": -90.70312
+  },
+  {
+   "file": "nunavut-227.jmv",
+   "bytes": 29221444,
+   "sha256": "4a9ec29d5f1d3531819ee41e5d82665f1846c8c0d6b1d4da8f78b58e2bab5240",
+   "south": 63.23363,
+   "west": -90.70312,
+   "north": 64.77413,
+   "east": -85.07812
+  },
+  {
+   "file": "nunavut-228.jmv",
+   "bytes": 20686889,
+   "sha256": "80752314622a4eb74b87c5b263d71f56b85f5c891b56af3b190f5209cd3d4256",
+   "south": 63.54855,
+   "west": -85.07812,
+   "north": 64.77413,
+   "east": -78.04688
+  },
+  {
+   "file": "nunavut-229.jmv",
+   "bytes": 24077963,
+   "sha256": "ea5b1bc7ad69f773721191c19a41330753471693baacceaf28d6e810a0781e50",
+   "south": 63.54855,
+   "west": -78.04688,
+   "north": 64.77413,
+   "east": -73.82812
+  },
+  {
+   "file": "nunavut-230.jmv",
+   "bytes": 26705226,
+   "sha256": "791972440bec6ba2c8579ab40ec2cbf4201d41ca155096f22adc2975124f87cc",
+   "south": 63.54855,
+   "west": -73.82812,
+   "north": 64.77413,
+   "east": -71.71875
+  },
+  {
+   "file": "nunavut-231.jmv",
+   "bytes": 19319566,
+   "sha256": "61887cf28ec7a768613d160a751d5783ab24f030589c3e0022787d3afcacc988",
+   "south": 63.54855,
+   "west": -71.71875,
+   "north": 64.77413,
+   "east": -70.3125
+  },
+  {
+   "file": "nunavut-232.jmv",
+   "bytes": 25809961,
+   "sha256": "14d54aa5802906e9161b9ab3b98f827b28f2fa7a48d3e25fdd530d52b84fa75d",
+   "south": 63.54855,
+   "west": -70.3125,
+   "north": 64.77413,
+   "east": -68.20312
+  },
+  {
+   "file": "nunavut-233.jmv",
+   "bytes": 19642194,
+   "sha256": "99ce80c3fb213b8ae33fe73a6ade669ffc1dd728f9761fbb418c0cbbe985e809",
+   "south": 63.54855,
+   "west": -68.20312,
+   "north": 64.77413,
+   "east": -66.79688
+  },
+  {
+   "file": "nunavut-234.jmv",
+   "bytes": 27504652,
+   "sha256": "99bc653cc0ce55769848f7eadf441e39b14c8342c992affe0320c2496c27fa37",
+   "south": 63.54855,
+   "west": -66.79688,
+   "north": 64.77413,
+   "east": -65.39062
+  },
+  {
+   "file": "nunavut-235.jmv",
+   "bytes": 24112668,
+   "sha256": "38eb41cf35c9b6956b661b8565c4607870d4fbd76937f9d095542b302007a8ac",
+   "south": 63.54855,
+   "west": -65.39062,
+   "north": 64.77413,
+   "east": -62.8418
+  },
+  {
+   "file": "nunavut-236.jmv",
+   "bytes": 27351622,
+   "sha256": "fd073ed887a5321048d1697a6a34951406cccab8de4c6090a298d8150689ea8b",
+   "south": 61.6064,
+   "west": -102.08496,
+   "north": 63.54855,
+   "east": -99.84375
+  },
+  {
+   "file": "nunavut-237.jmv",
+   "bytes": 22786437,
+   "sha256": "7f4967124a15b1d1aa4409b175d25b612b514844f3452cf470224c986fdff6da",
+   "south": 61.6064,
+   "west": -99.84375,
+   "north": 63.54855,
+   "east": -97.73438
+  },
+  {
+   "file": "nunavut-238.jmv",
+   "bytes": 27638031,
+   "sha256": "1a6129f5237bdd68b78d045179b37df961157e5dfc259887d8b3de8efca036a5",
+   "south": 62.59334,
+   "west": -85.07812,
+   "north": 63.54855,
+   "east": -70.3125
+  },
+  {
+   "file": "nunavut-239.jmv",
+   "bytes": 31484855,
+   "sha256": "fb61b62288e4c2fbbfbe20a719fb278649c6efbee883c0cea7d2396e5dbb5e7e",
+   "south": 62.59334,
+   "west": -70.3125,
+   "north": 63.54855,
+   "east": -68.20312
+  },
+  {
+   "file": "nunavut-240.jmv",
+   "bytes": 29737527,
+   "sha256": "d06d129f1f2793d8e587bef9bde58f5aabd84cfa89773217278923df0c445e68",
+   "south": 62.59334,
+   "west": -68.20312,
+   "north": 63.54855,
+   "east": -66.09375
+  },
+  {
+   "file": "nunavut-241.jmv",
+   "bytes": 25386038,
+   "sha256": "3dfe596f2d7b9b998b6a8618c694f228a048818f8c51b8ce44921aa0ac495542",
+   "south": 62.59334,
+   "west": -66.09375,
+   "north": 63.54855,
+   "east": -63.2373
+  },
+  {
+   "file": "nunavut-242.jmv",
+   "bytes": 26439271,
+   "sha256": "12335c24110825bd8cec7cf3f6ee1365cc3ab7543d0527642fe3118b9e6735a8",
+   "south": 61.93895,
+   "west": -97.73438,
+   "north": 63.23363,
+   "east": -94.92188
+  },
+  {
+   "file": "nunavut-243.jmv",
+   "bytes": 26469317,
+   "sha256": "924d7bfe823bca2dc48dc01c2d23d91fc33e4371d59e61dafd0ebb7ef9a8afec",
+   "south": 61.93895,
+   "west": -94.92188,
+   "north": 63.23363,
+   "east": -85.07812
+  },
+  {
+   "file": "nunavut-244.jmv",
+   "bytes": 26153718,
+   "sha256": "ca772309a01550672df345151262ad31c7f18477417afa01925203103a0b7580",
+   "south": 61.27023,
+   "west": -84.02344,
+   "north": 62.59334,
+   "east": -69.91699
+  },
+  {
+   "file": "nunavut-245.jmv",
+   "bytes": 23027096,
+   "sha256": "7b0087e594f027aa184db57f912da523cb4da603a8cd6942d64617730912df3e",
+   "south": 62.26792,
+   "west": -69.56543,
+   "north": 62.59334,
+   "east": -63.45703
+  },
+  {
+   "file": "nunavut-246.jmv",
+   "bytes": 30467436,
+   "sha256": "1acaa5ec1d2765d986889ea3453edf3f51c5636576eeab9ad0cfde09289759da",
+   "south": 58.1707,
+   "west": -69.60938,
+   "north": 62.26792,
+   "east": -63.89648
+  },
+  {
+   "file": "nunavut-247.jmv",
+   "bytes": 20946050,
+   "sha256": "720e1ea0589f62d0a074b107b9ac129d5f31404552a71a45387a92bfdd90f980",
+   "south": 60.93043,
+   "west": -97.73438,
+   "north": 61.93895,
+   "east": -92.50488
+  },
+  {
+   "file": "nunavut-248.jmv",
+   "bytes": 24689433,
+   "sha256": "87063d9013781c005bf8fd45fec65d4404a25445fb2f23de249abb7295640bed",
+   "south": 59.95501,
+   "west": -102.08496,
+   "north": 61.6064,
+   "east": -99.84375
+  },
+  {
+   "file": "nunavut-249.jmv",
+   "bytes": 22639473,
+   "sha256": "50588fcb7cf7c137061dcbe4c183931e380cfcda13f639de504165e0be8d319a",
+   "south": 59.95501,
+   "west": -99.84375,
+   "north": 61.6064,
+   "east": -97.73438
+  },
+  {
+   "file": "nunavut-250.jmv",
+   "bytes": 28774529,
+   "sha256": "75f79939d0304ff71051a871028fe322394b7663c5ebf2fc1e75cb2c3cb9eb75",
+   "south": 51.09662,
+   "west": -85.07812,
+   "north": 61.27023,
+   "east": -69.60938
+  },
+  {
+   "file": "nunavut-251.jmv",
+   "bytes": 24680272,
+   "sha256": "046210d937e89f048d312a43cc6172bf1807721671846d8a652b950fb2e561e9",
+   "south": 55.20395,
+   "west": -97.73438,
+   "north": 60.93043,
+   "east": -85.07812
+  }
+ ]
+}
